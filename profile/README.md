@@ -5,7 +5,6 @@
 [![Matrix](https://img.shields.io/matrix/rebornos:matrix.org?label=Matrix&logo=matrix&server_fqdn=matrix.org)](https://matrix.to/#/#rebornos:matrix.org)
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/rebornos?style=social)](https://www.reddit.com/r/rebornos/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/rebornoslinux)](https://twitter.com/rebornoslinux)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/rebornos)
 
 ![RebornOS Logo](rebornos_logo.png)
 
