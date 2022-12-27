@@ -20,10 +20,10 @@ After installation, we even provide assistance to users who want to convert thei
 4. **GUI friendly**: We understand that not everyone is comfortable with the terminal-based lifestyle. 
 We are Graphical User Interface (GUI) friendly and offer GUI apps for various system tasks, including `pamac` for package management.
 
-## Useful Resources
+## Links
 #### 🌎 [**Website**](https://www.rebornos.org/)
 #### 💿 [**Downloads**](https://www.rebornos.org/download/)
 #### 🗺 [**Online Installation Guide**](https://wiki.rebornos.org/en/installation/calamares-online)
 #### 🗺 [**Offline Installation Guide**](https://wiki.rebornos.org/en/installation/calamares-offline)
 #### 🖥 [**RebornOS Wiki**](https://wiki.rebornos.org)
-#### 🚦 [**The Status of our Infrastructure**](https://status.rebornos.org/)
+#### 🚦 [**Infrastructure Status**](https://status.rebornos.org/)
