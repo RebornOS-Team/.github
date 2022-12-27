@@ -3,7 +3,6 @@
 [![Discord Server](https://dcbadge.vercel.app/api/server/cU5s6MPpQH?style=flat)](https://discord.gg/cU5s6MPpQH)
 [![Discourse users](https://img.shields.io/discourse/users?label=Forum&logo=discourse&server=https%3A%2F%2Frebornos.discourse.group)](https://rebornos.discourse.group/)
 [![Matrix](https://img.shields.io/matrix/rebornos:matrix.org?label=Matrix&logo=matrix&server_fqdn=matrix.org)](https://matrix.to/#/#rebornos:matrix.org)
-
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/rebornos?style=social)](https://www.reddit.com/r/rebornos/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/rebornoslinux)](https://twitter.com/rebornoslinux)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/rebornos)
