@@ -1,4 +1,4 @@
-# What is RebornOS ?
+# RebornOS
 
 [![Discord Server](https://dcbadge.vercel.app/api/server/cU5s6MPpQH?style=flat)](https://discord.gg/cU5s6MPpQH)
 [![Discourse users](https://img.shields.io/discourse/users?label=Forum&logo=discourse&server=https%3A%2F%2Frebornos.discourse.group)](https://rebornos.discourse.group/)
@@ -7,6 +7,8 @@
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/rebornos?style=social)](https://www.reddit.com/r/rebornos/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/rebornoslinux)](https://twitter.com/rebornoslinux)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/rebornos)
+
+![RebornOS Logo](rebornos_logo.png)
 
 **RebornOS** is an *Arch Linux* based distribution whose goal is to make Arch Linux more approachable to **beginners**. We aim to meet the following needs:
 1. **Beginner Friendly**: Users generally get more interaction with developers (on Discord and on Forums) than other typical distributions. 
