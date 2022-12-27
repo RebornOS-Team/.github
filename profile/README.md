@@ -21,18 +21,9 @@ After installation, we even provide assistance to users who want to convert thei
 We are Graphical User Interface (GUI) friendly and offer GUI apps for various system tasks, including `pamac` for package management.
 
 ## Useful Resources
-- 🌎 [**Website**](https://www.rebornos.org/)
-- 💿 [**Downloads**](https://www.rebornos.org/download/)
-- 🗺 [**Online Installation Guide**](https://wiki.rebornos.org/en/installation/calamares-online)
-- 🗺 [**Offline Installation Guide**](https://wiki.rebornos.org/en/installation/calamares-offline)
-- 🖥 [**RebornOS Wiki**](https://wiki.rebornos.org)
-- 🚦 [**The Status of our Infrastructure**](https://status.rebornos.org/)
-
-
-## Community / Social Media
-- [**Discord**](https://discord.com/invite/cU5s6MPpQH)
-- [**Forum**](https://rebornos.discourse.group)
-- [**Reddit**](https://www.reddit.com/r/rebornos/)
-- [**Matrix**](https://matrix.to/#/#rebornos:matrix.org)
-- [**Twitter**](https://twitter.com/rebornoslinux)
-- [**Facebook**](https://www.facebook.com/rebornos/)
+#### 🌎 [**Website**](https://www.rebornos.org/)
+#### 💿 [**Downloads**](https://www.rebornos.org/download/)
+#### 🗺 [**Online Installation Guide**](https://wiki.rebornos.org/en/installation/calamares-online)
+#### 🗺 [**Offline Installation Guide**](https://wiki.rebornos.org/en/installation/calamares-offline)
+#### 🖥 [**RebornOS Wiki**](https://wiki.rebornos.org)
+#### 🚦 [**The Status of our Infrastructure**](https://status.rebornos.org/)
